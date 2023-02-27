@@ -1,0 +1,17 @@
+body {
+    background-color: #77ccff;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .tournament {
+    background-color: #ddd;
+    border: 1px solid #bbb;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }

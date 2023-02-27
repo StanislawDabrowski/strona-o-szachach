@@ -1,0 +1,14 @@
+body{
+    background-color: #77ccff;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
